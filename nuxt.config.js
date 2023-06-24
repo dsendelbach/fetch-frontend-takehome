@@ -17,8 +17,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - dog',
-    title: 'dog',
+    titleTemplate: 'Fetch Takehome',
+    title: 'Fetch Takehome',
     htmlAttrs: {
       lang: 'en'
     },
